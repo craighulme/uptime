@@ -1,5 +1,6 @@
 owner: craighulme
 repo: uptime
+cronSchedule: "*/5 * * * *"
 
 sites:
   # 🧠 QUACKDUCK API
