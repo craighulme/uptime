@@ -1,7 +1,7 @@
 url: https://quackduck.dev/api/health
-status: down
-code: 403
-responseTime: 17
-lastUpdated: 2025-11-08T23:11:43.087Z
+status: up
+code: 200
+responseTime: 271
+lastUpdated: 2025-11-08T23:21:29.543Z
 startTime: 2025-11-08T13:36:18.599Z
 generator: Upptime <https://github.com/upptime/upptime>
