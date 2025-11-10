@@ -3,14 +3,6 @@ repo: uptime
 cronSchedule: "*/5 * * * *"
 
 sites:
-  # 🧠 QUACKDUCK API
-  - name: Core — QuackDuck API Health
-    url: https://quackduck.dev/api/health
-    method: GET
-    expectedStatusCodes:
-      - 200
-    expectedBody: '"status":"healthy"'
-
   - name: Core — QuackDuck API Database
     url: https://quackduck.dev/api/health
     method: GET
