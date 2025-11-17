@@ -18,19 +18,6 @@ sites:
     expectedBody: '"api":{"status":"operational"'
 
   # 🤖 DISCORD BOT + DB
-  - name: Bot — QuackDuck Discord Bot
-    url: https://dz-discord-bot.onrender.com/health
-    method: GET
-    expectedStatusCodes:
-      - 200
-    expectedBody: '"status":"healthy"'
-
-  - name: Bot — QuackDuck Discord Bot Database
-    url: https://dz-discord-bot.onrender.com/health/db
-    method: GET
-    expectedStatusCodes:
-      - 200
-    expectedBody: '"status":"healthy"'
 
   # 🏗️ INFRASTRUCTURE
   - name: Infra — QuackDuck Site Host (Vercel)
