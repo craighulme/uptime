@@ -1,7 +1,7 @@
 url: https://deadzone.dev/store
-status: up
-code: 200
-responseTime: 562
-lastUpdated: 2026-06-26T00:04:51.117Z
+status: down
+code: 502
+responseTime: 276
+lastUpdated: 2026-06-26T12:01:28.862Z
 startTime: 2025-11-08T13:36:21.110Z
 generator: Upptime <https://github.com/upptime/upptime>
